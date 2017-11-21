@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HRM Automation" duration-ms="30373" started-at="2017-11-16T07:02:22Z" finished-at="2017-11-16T07:02:52Z">
+    <groups>
+    </groups>
+    <test name="TestScripts" duration-ms="30373" started-at="2017-11-16T07:02:22Z" finished-at="2017-11-16T07:02:52Z">
+      <class name="TestScripts.Tc1_Login">
+        <test-method status="PASS" signature="verifyOrangeHRM()[pri:0, instance:TestScripts.Tc1_Login@acaea5]" name="verifyOrangeHRM" duration-ms="9538" started-at="2017-11-16T12:32:22Z" finished-at="2017-11-16T12:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrangeHRM -->
+      </class> <!-- TestScripts.Tc1_Login -->
+      <class name="TestScripts.TC2_AddEmp">
+        <test-method status="PASS" signature="AddEmployee()[pri:0, instance:TestScripts.TC2_AddEmp@1fa1d9b]" name="AddEmployee" duration-ms="20803" started-at="2017-11-16T12:32:32Z" finished-at="2017-11-16T12:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+      </class> <!-- TestScripts.TC2_AddEmp -->
+    </test> <!-- TestScripts -->
+  </suite> <!-- HRM Automation -->
+</testng-results>
